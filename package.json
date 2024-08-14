@@ -1,0 +1,33 @@
+{
+  "name": "hoshi-cache",
+  "version": "1.0.0",
+  "description": "smh",
+  "main": "server.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritshu/Hoshi-Cache.git"
+  },
+  "author": "Ritshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritshu/Hoshi-Cache/issues"
+  },
+  "homepage": "https://github.com/Ritshu/Hoshi-Cache#readme",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.5.3",
+    "express": "^4.19.2",
+    "git": "^0.1.5",
+    "gradient-string": "^2.0.2",
+    "punycode": "^2.3.1",
+    "uri-js": "^4.2.2"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^7.3.1"
+  }
+}
