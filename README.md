@@ -19,8 +19,8 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/growtopia-private-server-http.git
-cd growtopia-private-server-http
+git clone git clone https://github.com/ImNotWraith/ImNotWraith.git
+cd cd ImNotWraith
 Install Dependencies
 
 bash
